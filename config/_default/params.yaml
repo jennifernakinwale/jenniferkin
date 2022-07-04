@@ -18,8 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Jennifer Nkechi Akwari'
     license:
       enable: true
       allow_derivatives: false
@@ -70,7 +69,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/jennifernakinwale/<repository>'
     content_dir: content
     branch: master
   avatar:
@@ -84,7 +83,7 @@ features:
     commento:
       url: ''
   search:
-    provider: wowchemy
+    provider: ''
     algolia:
       app_id: ''
       api_key: ''
