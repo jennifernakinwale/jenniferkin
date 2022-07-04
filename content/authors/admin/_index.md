@@ -57,8 +57,8 @@ social:
     link: https://www.linkedin.com/in/nkechiakwari/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,		 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+ @@ -70,8 +70,9 @@ email: ''
  - icon: cv
    icon_pack: ai
    link: uploads/resume.pdf
@@ -69,11 +69,10 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-
+---
 Hello!!!
 I am Jennifer Nkechi Akwari is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
----
