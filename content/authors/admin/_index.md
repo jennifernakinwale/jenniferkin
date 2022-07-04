@@ -57,8 +57,7 @@ social:
     link: https://www.linkedin.com/in/nkechiakwari/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,		 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
- @@ -70,8 +70,9 @@ email: ''
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,		 
  - icon: cv
    icon_pack: ai
    link: uploads/resume.pdf
