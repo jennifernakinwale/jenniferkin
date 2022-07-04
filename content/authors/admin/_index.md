@@ -7,6 +7,7 @@ superuser: true
 
 # Role/position/tagline
 role: CS PHD Student
+email: akwarinj@mail.uc.edu
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -71,7 +72,7 @@ highlight_name: true
 ---
 
 Hello. 
-I am a Computer Science Ph.D. student at the University of Cincinnati, advised by Dr. Seokki Lee. I am broadly interested in research on data provenance, databases, and machine learning and I am affiliated with the Databases Group.
+I am a Computer Science Ph.D. student at the University of Cincinnati, advised by <a href = "www.linkedin.com"> Dr. Seokki Lee </a>. I am broadly interested in research on data provenance, databases, and machine learning and I am affiliated with the Databases Group.
 
 Before joining UC, I graduated with a Bachelor of Science (First Class Honours) in Computer Science from the University of Ibadan, Nigeria, and was awarded the best graduating student in the computer science department. Professionally, I have held different roles in a bank, a fintech company, etc., ensuring a total shift in the development, delivery, and use of software products/applications.
 
