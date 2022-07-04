@@ -70,8 +70,9 @@ email: ''
 highlight_name: true
 ---
 
-Hello. I am a graduate student. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello. 
+I am a Computer Science Ph.D. student at the University of Cincinnati, advised by Dr. Seokki Lee. I am broadly interested in research on data provenance, databases, and machine learning and I am affiliated with the Databases Group.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before joining UC, I graduated with a Bachelor of Science (First Class Honours) in Computer Science from the University of Ibadan, Nigeria, and was awarded the best graduating student in the computer science department. Professionally, I have held different roles in a bank, a fintech company, etc., ensuring a total shift in the development, delivery, and use of software products/applications.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
