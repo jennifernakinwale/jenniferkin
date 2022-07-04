@@ -51,12 +51,12 @@
   enable = true
 
 [[buttons]]
-  id = "xing"
-  url = "https://www.xing.com/spi/shares/new?url={url}&title={title}"
+  id = "xgoogle"
+  url = "https://scholar.google.com/citations?user=wjAY7hAAAAAJ&hl"
   title = "Xing"
   icon_pack = "fab"
   icon = "xing"
-  enable = false
+  enable = true
 
 [[buttons]]
   id = "tumblr"
