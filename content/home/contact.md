@@ -25,21 +25,4 @@ content:
     postcode: '45219'
     country: United States
     country_code: US
-  contact_links:
-    - icon: linkedin-in
-      icon_pack: fab
-      name: LinkedIn
-      link: 'www.linkedin.com/in/nkechiakwari'
-    - icon: video
-      icon_pack: fab
-      name: Github
-      link: 'https://github.com/jennifernakinwale'
-    - icon: video
-      icon_pack: fab
-      name: Kaggle
-      link: 'https://www.kaggle.com/nkechiyeree' 
-    - icon: video
-      icon_pack: fab
-      name: Google Scholar
-      link: 'https://scholar.google.com/citations?user=wjAY7hAAAAAJ&hl' 
 ---
