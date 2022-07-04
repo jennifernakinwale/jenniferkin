@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jennifer Nkechi Akwari
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: CS PHD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Cincinnati
+    url: https://www.uc.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include data provenance, databases and machine learning
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Provenance
+  - Databases
+  - Machine Learning
 
 # Education to show in About widget
 education:
