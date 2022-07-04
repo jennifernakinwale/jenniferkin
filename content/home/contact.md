@@ -24,34 +24,30 @@ content:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
 
-  # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  # Contact details 
+  email: akwarinj@mail.uc.edu
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 613B Old Chemistry Building
+    city: Cincinnati
+    region: OH
+    postcode: '45219'
     country: United States
     country_code: US
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: twitter
+    - icon: linkedin-in
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
+      name: LinkedIn
+      link: 'linkedin.com/in/nkechiakwari'
     - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
-
-design:
-  columns: '2'
+      icon_pack: fab
+      name: Github
+      link: 'https://github.com/jennifernakinwale'
+    - icon: video
+      icon_pack: fab
+      name: Kaggle
+      link: 'https://www.kaggle.com/nkechiyeree' 
+    - icon: video
+      icon_pack: fab
+      name: Google Scholar
+      link: 'https://scholar.google.com/citations?user=wjAY7hAAAAAJ&hl' 
 ---
