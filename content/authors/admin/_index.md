@@ -29,7 +29,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: University of Cincinnati, OH, USA
-      year: 2022 - 2026
+      year: 2022 - 2025
     - course: BSC Computer Science
       institution: University of Ibadan, OY, NG
       year: 2018
