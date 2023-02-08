@@ -11,6 +11,6 @@ view: 4
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ''
+  caption: 'Provenance-based Explanations for Machine Learning (ML) Models, Accepted DBML 2023'
   image: ''
 ---
