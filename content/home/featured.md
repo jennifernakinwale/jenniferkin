@@ -13,7 +13,7 @@ title: Publications
 subtitle: ''
 
 content:
-  Provenance-based Explanations for Machine Learning (ML) Models (Accepted DBML 2023)
+  title: Provenance-based Explanations for Machine Learning (ML) Models (Accepted DBML 2023)
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how many pages you would like to display (0 = all pages)
