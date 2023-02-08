@@ -10,14 +10,13 @@ headless: true
 weight: 80
 
 title: Publications
-subtitle: ''
+subtitle: 'Provenance-based Explanations for Machine Learning (ML) Models (Accepted DBML 2023)'
 
-content:
-  title: Provenance-based Explanations for Machine Learning (ML) Models (Accepted DBML 2023)
+content: 
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how many pages you would like to display (0 = all pages)
-  count: 1
+  count: 0
   # Filter on criteria
   filters:
     author: 'Justin Turnau*, Nkechi J. Akwari*, Seokki Lee, Dwarkesh Rajput'
