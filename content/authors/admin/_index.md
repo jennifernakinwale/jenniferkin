@@ -53,10 +53,10 @@ social:
     link: https://scholar.google.com/citations?user=wjAY7hAAAAAJ&hl
   - icon: github
     icon_pack: fab
-    link: https://github.com/jennifernakinwale/jennifernakinwale
+    link: https://github.com/jennifernakinwale
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/nkechiakwari/
+    link: https://www.linkedin.com/in/nkechiakwari
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
