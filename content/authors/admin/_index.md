@@ -75,6 +75,8 @@ highlight_name: true
 Hello. 
 I am a Computer Science Ph.D. student at the <a href = "https://www.uc.edu">University of Cincinnati</a>, advised by <a href = "https://researchdirectory.uc.edu/p/lee5sk"> Dr. Seokki Lee </a>. I am broadly interested in research on data provenance, databases, and machine learning and I am affiliated with the <a href = "https://sites.google.com/view/ucdbg/home?authuser=0">Databases Group</a>.
 
-Before joining UC, I graduated with a Bachelor of Science (First Class Honours) in Computer Science from the University of Ibadan, Nigeria, and was awarded the best graduating student in the computer science department. Professionally, I have gained experience in various fields, including business process analysis, data analysis, software design, project management, and change management. Additionally, I enjoy mentoring young people and underrepresented individuals in STEM.
+Before joining UC, I graduated with a Bachelor of Science (First Class Honours) in Computer Science from the University of Ibadan, Nigeria, and was awarded the best graduating student in the computer science department. 
+
+Professionally, I have gained experience in various fields, including business process analysis, data analysis, software design, project management, and change management. Additionally, I enjoy mentoring young people and underrepresented individuals in STEM.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
