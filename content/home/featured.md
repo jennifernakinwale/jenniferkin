@@ -10,7 +10,7 @@ headless: true
 weight: 80
 
 title: Publications
-subtitle: 'Provenance-based Explanations for Machine Learning (ML) Models, Justin Turnau*, Nkechi J. Akwari*, Seokki Lee, Dwarkesh Rajput (Accepted DBML 2023)'
+subtitle: Turnau, J., Akwari, N., Lee, S., & Rajput, D. (2023, April). Provenance-based Explanations for Machine Learning (ML) Models. In 2023 IEEE 39th International Conference on Data Engineering Workshops (ICDEW) (pp. 40-43). IEEE.
 
 content: 
   # Page type to display. E.g. post, talk, publication...
