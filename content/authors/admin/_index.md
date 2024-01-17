@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jennifer Nkechi Akinwale
+title: Jennifer Nkechi Akinwale (Akwari)
 
 # Is this the primary user of the site?
 superuser: true
@@ -56,7 +56,7 @@ social:
     link: https://github.com/jennifernakinwale
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/nkechiakwari
+    link: https://www.linkedin.com/in/nkechijakinwale
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -73,7 +73,7 @@ highlight_name: true
 ---
 
 Hello. 
-I am a Computer Science Ph.D. student at the <a href = "https://www.uc.edu">University of Cincinnati</a>, advised by <a href = "https://researchdirectory.uc.edu/p/lee5sk"> Dr. Seokki Lee </a>. I am broadly interested in research on data provenance, databases, and machine learning and I am affiliated with the <a href = "https://sites.google.com/view/ucdbg/home?authuser=0">Databases Group</a>.
+I am a Computer Science Ph.D. student at the <a href = "https://www.uc.edu">University of Cincinnati</a>, advised by <a href = "https://researchdirectory.uc.edu/p/lee5sk"> Dr. Seokki Lee </a>. I am broadly interested in research on data provenance, databases, and machine learning and I am affiliated with the <a href = "https://shek21.github.io/people/">Databases Group</a>.
 
 Before joining UC, I graduated with a Bachelor of Science (First Class Honours) in Computer Science from the University of Ibadan, Nigeria, and was awarded the best graduating student in the computer science department. 
 
