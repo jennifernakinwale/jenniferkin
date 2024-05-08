@@ -6,7 +6,7 @@ title: Jennifer Nkechi Akinwale (Akwari)
 superuser: true
 
 # Role/position/tagline
-role: CS PHD Student 
+role: CS PhD Researcher 
 organizations:
   - name: akwarinj@mail.uc.edu
 
@@ -16,7 +16,7 @@ organizations:
     url: https://www.uc.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include data provenance, databases and machine learning
+bio: My research interests include data provenance, databases, and machine learning
 
 # Interests to show in About widget
 interests:
@@ -27,15 +27,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: PhD, Computer Science
       institution: University of Cincinnati, OH, USA
-      year: 2022 - 2025
-    - course: BSC Computer Science
+      year: 2025/2026
+    - course: Masters, MEng Degree (Computer Science)
+      institution: University of Cincinnati, OH, USA
+      year: 2023
+    - course: BSC, Computer Science
       institution: University of Ibadan, OY, NG
       year: 2018
-    - course: AS Computer Science
-      institution: Yaba College of Technology, LA, NG
-      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -56,7 +56,7 @@ social:
     link: https://github.com/jennifernakinwale
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/nkechijakinwale
+    link: https://www.linkedin.com/in/njakinwale
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -73,10 +73,10 @@ highlight_name: true
 ---
 
 Hello. 
-I am a Computer Science Ph.D. student at the <a href = "https://www.uc.edu">University of Cincinnati</a>, advised by <a href = "https://researchdirectory.uc.edu/p/lee5sk"> Dr. Seokki Lee </a>. I am broadly interested in research on data provenance, databases, and machine learning and I am affiliated with the <a href = "https://shek21.github.io/people/">Databases Group</a>.
+I am a Computer Science Ph.D. student at the <a href = "https://www.uc.edu">University of Cincinnati (UC) </a>, advised by <a href = "https://researchdirectory.uc.edu/p/lee5sk"> Dr. Seokki Lee </a>. I am broadly interested in research on data provenance, databases, and machine learning and I am affiliated with the <a href = "https://shek21.github.io/people/">Databases Group</a>. 
 
-Before joining UC, I graduated with a Bachelor of Science (First Class Honours) in Computer Science from the University of Ibadan, Nigeria, and was awarded the best graduating student in the computer science department. 
+I received the Graduate Student Engineer of the Month (July 2024) from UC. Before joining UC, I graduated with a Bachelor of Science (First Class Honours) in Computer Science from the University of Ibadan, Nigeria, and was awarded the best graduating student in the computer science department. 
 
-Professionally, I have gained experience in various fields, including business process analysis, data analysis, software design, project management, and change management. Additionally, I enjoy mentoring young people and underrepresented individuals in STEM.
+Professionally, I have gained experience in various fields, including business process analysis, data science and engineering, data analysis, software design, project management, and change management. Additionally, I enjoy mentoring young people and underrepresented individuals in STEM.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
