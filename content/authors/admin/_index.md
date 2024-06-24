@@ -69,7 +69,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: true 
 ---
 
 Hello. 
@@ -79,4 +79,4 @@ I received the Graduate Student Engineer of the Month (July 2024) from UC. Befor
 
 Professionally, I have gained experience in various fields, including business process analysis, data science and engineering, data analysis, software design, project management, and change management. Additionally, I enjoy mentoring young people and underrepresented individuals in STEM.
 
-#{{< icon name="download" pack="fas" >}} #Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resumee.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
