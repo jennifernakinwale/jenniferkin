@@ -75,8 +75,8 @@ highlight_name: true
 Hello. 
 I am a Computer Science Ph.D. student at the <a href = "https://www.uc.edu">University of Cincinnati (UC) </a>, advised by <a href = "https://researchdirectory.uc.edu/p/lee5sk"> Dr. Seokki Lee </a>. I am broadly interested in research on data provenance, databases, and machine learning and I am affiliated with the <a href = "https://shek21.github.io/people/">Databases Group</a>. 
 
-I received the Graduate Student Engineer of the Month (July 2024) from UC. Before joining UC, I graduated with a Bachelor of Science (First Class Honours) in Computer Science from the University of Ibadan, Nigeria, and was awarded the best graduating student in the computer science department. 
+I hold an MEng (Computer Science) degree from UC. I was awarded the Graduate Student Engineer of the Month Award (July, 2024), College of Engineering and Applied Science (CEAS), UC . Before joining UC, I graduated with a Bachelor of Science, first class honors (~summa cum laude) in Computer Science from the University of Ibadan, Nigeria, and was awarded the best graduating student in the Computer Science department. 
 
-Professionally, I have gained experience in various fields, including business process analysis, data science and engineering, data analysis, software design, project management, and change management. Additionally, I enjoy mentoring young people and underrepresented individuals in STEM.
+Professionally, I have gained experience in various fields, including  data science and engineering, data analysis, software design, technical project management, business process analysis, and change management. Additionally, I enjoy mentoring young people and underrepresented individuals in STEM.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resumee.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
