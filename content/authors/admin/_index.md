@@ -35,7 +35,7 @@ education:
       year: 2023
     - course: BSC, Computer Science
       institution: University of Ibadan, OY, NG
-      year: 2018
+      
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
