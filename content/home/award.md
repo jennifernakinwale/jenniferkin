@@ -10,7 +10,8 @@ headless: true
 weight: 80
 
 title: Awards
-subtitle: Graduate Student Engineer of the Month, University of Cincinnati  
+subtitle: 1. Graduate Student Engineer of the Month, University of Cincinnati (July 2024); 2. Cadence Diversity in Technology Scholarship Award (2023) 3. Impact Award, NCWIT Aspirations in Computing (4) Best Graduating Student in Computer Science Department (Undergraduate Award)  
+
 content: 
   # Page type to display. E.g. post, talk, publication...
   page_type: award
@@ -18,7 +19,7 @@ content:
   count: 3
   # Filter on criteria
   filters:
-    author: 'name award'
+    author: ''
     category: ''
     publication_type: ''
     tag: ''
@@ -31,5 +32,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 1
+  view: 2
 ---
