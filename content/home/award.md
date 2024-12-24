@@ -1,7 +1,9 @@
 ---
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: award
+
+# change to 'award' once you sort how this page should look like
+widget: awardd 
 
 # This file represents a page section.
 headless: true
