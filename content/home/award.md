@@ -10,16 +10,15 @@ headless: true
 weight: 80
 
 title: Awards
-subtitle: Turnau, J.*, Akwari*, N., Lee, S., & Rajput, D. (2023, April). Provenance-based Explanations for Machine Learning (ML) Models. In 2023 IEEE 39th International Conference on Data Engineering Workshops (ICDEW) (pp. 40-43). IEEE. (* All authors contributed equally to this work)
-
+subtitle: Graduate Student Engineer of the Month, University of Cincinnati  
 content: 
   # Page type to display. E.g. post, talk, publication...
   page_type: award
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  count: 3
   # Filter on criteria
   filters:
-    author: ''
+    author: 'name award'
     category: ''
     publication_type: ''
     tag: ''
