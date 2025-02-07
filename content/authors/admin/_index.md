@@ -30,7 +30,7 @@ education:
     - course: PhD, Computer Science
       institution: University of Cincinnati, OH, USA
       year: 2025/2026
-    - course: Masters, MEng Degree (Computer Science)
+    - course: Masters Degree (Computer Science)
       institution: University of Cincinnati, OH, USA
       
    
