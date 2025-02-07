@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jennifer Nkechi Akinwale (Akwari)
+title: Jennifer Nkechi Akinwale
 
 # Is this the primary user of the site?
 superuser: true
