@@ -32,9 +32,8 @@ education:
       year: 2025/2026
     - course: Masters, MEng Degree (Computer Science)
       institution: University of Cincinnati, OH, USA
-      year: 2023
-    - course: BSC, Computer Science
-      institution: University of Ibadan, OY, NG
+      
+   
       
 
 # Social/Academic Networking
