@@ -48,7 +48,7 @@ social:
   - icon: kaggle
     icon_pack: fab
     link: https://www.kaggle.com/nkechiyeree
-  - icon: substack 
+  - icon: write
     icon_pack: fas
     link: https://substack.com/@jenniferakinwale
   - icon: github
