@@ -22,7 +22,6 @@ content:
     street: 613B Old Chemistry Building
     city: Cincinnati
     region: OH
-    postcode: '45219'
     country: United States
     country_code: US
 ---
