@@ -45,7 +45,7 @@ social:
     link: https://www.linkedin.com/in/njakinwale
   - icon: kaggle
     icon_pack: fab
-    link: https://www.kaggle.com/nkechiyeree
+    link: [https://www.kaggle.com/nkechiyeree](https://www.kaggle.com/code/nkechiyeree/eda-and-stroke-prediction-using-six-6-ml-models)
   - icon: "fas fa-pen-nib"
     icon_pack: fas
     link: https://substack.com/@jenniferakinwale
