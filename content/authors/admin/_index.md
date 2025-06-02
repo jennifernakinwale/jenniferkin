@@ -40,18 +40,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/njakinwale
-  - icon: kaggle
-    icon_pack: fab
-    link: https://www.kaggle.com/code/nkechiyeree/eda-and-stroke-prediction-using-six-6-ml-models
-  - icon: "fas fa-pen-nib"
+- icon: "fas fa-pen-nib"
     icon_pack: fas
     link: https://substack.com/@jenniferakinwale
   - icon: github
     icon_pack: fab
     link: https://github.com/jennifernakinwale
+  - icon: kaggle
+    icon_pack: fab
+    link: https://www.kaggle.com/code/nkechiyeree/eda-and-stroke-prediction-using-six-6-ml-models
+   - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/njakinwale
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
@@ -74,8 +74,8 @@ highlight_name: true
 Hello. 
 I am a Computer Science Ph.D. student at the <a href = "https://www.uc.edu">University of Cincinnati (UC) </a>, advised by <a href = "https://researchdirectory.uc.edu/p/lee5sk"> Dr. Seokki Lee </a>. I am broadly interested in research on data provenance, databases, and machine learning and I am affiliated with the <a href = "https://shek21.github.io/people/">Databases Group</a>. 
 
-I hold a Masters Degree (Computer Science) from UC. I was awarded the Graduate Student Engineer of the Month Award (July, 2024), College of Engineering and Applied Science (CEAS), UC . Before joining UC, I graduated with a Bachelor of Science, first class honors (~summa cum laude) in Computer Science from the University of Ibadan and was awarded the best graduating student in the Computer Science department. 
+I hold a Masters Degree (Computer Science) from UC. I was awarded the Graduate Student Engineer of the Month Award (July, 2024), College of Engineering and Applied Science (CEAS), UC . Before joining UC, I graduated with a Bachelor of Science, first class honors (~summa cum laude) in Computer Science from the University of Ibadan and was awarded the best graduating student in the Computer Science Department. 
 
-Professionally, I have gained experience in various fields, including  data science and engineering, data analysis, software design, technical project management, business process analysis, and change management. Additionally, I enjoy mentoring young people and underrepresented individuals in STEM.
+Professionally, I have gained experience in various fields, including  data science and engineering, data analysis, software design, technical project management, business process analysis, and change management. I'm a community builder and enjoy mentoring young people and underrepresented individuals in STEM.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resumee.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
