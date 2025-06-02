@@ -49,7 +49,7 @@ social:
   - icon: kaggle
     icon_pack: fab
     link: https://www.kaggle.com/code/nkechiyeree/eda-and-stroke-prediction-using-six-6-ml-models
-   - icon: linkedin
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/njakinwale
   - icon: envelope
