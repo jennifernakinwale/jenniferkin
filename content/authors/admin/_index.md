@@ -42,7 +42,7 @@ education:
 social:
   - icon: "fas fa-pen-nib"
     icon_pack: fas
-    link: https://substack.com/@jenniferakinwale
+    link: https://substack.com/@jenniferkiin
   - icon: github
     icon_pack: fab
     link: https://github.com/jennifernakinwale
