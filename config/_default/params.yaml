@@ -30,7 +30,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Jennifer Nkechi Akinwale'
+    notice: '© {year} Jennifer Akinwale'
     license:
       enable: false
       allow_derivatives: false
