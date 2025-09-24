@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jennifer Nkechi Akinwale
+title: Jennifer Akinwale
 
 # Is this the primary user of the site?
 superuser: true
